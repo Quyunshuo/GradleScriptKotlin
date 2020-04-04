@@ -1,0 +1,2 @@
+rootProject.name='GradleScriptKotlin'
+include ':app'
